@@ -1,1 +1,2 @@
-# MySQL--Basic-to-Advance-SQL-Queries
+# ${\color{Green} MySQL:\ Basic\ to\ Advance\ SQL\ Queries}$
+
